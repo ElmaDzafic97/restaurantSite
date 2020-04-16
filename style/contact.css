@@ -1,0 +1,64 @@
+
+.container5{
+	padding: 4%;
+
+	
+   
+}
+.col-md-4{
+	background-color: #af7737;
+	padding: 4%;
+	margin-top: 6%;
+	margin-bottom: 6%;
+	
+	border-top-left-radius: 0.7rem;
+	border-bottom-left-radius: 0.7rem;
+	box-shadow: 5px 10px 5px #c5945b;
+	
+}
+.contact-info{
+	
+}
+#row5{
+	margin-top: 6%;
+}
+.contact-info h2{
+	margin-bottom: 10%;
+}
+input[type="text"][type="email"][type="submit"]
+{
+    background: rgba(0, 0, 0, 0);
+    border: none;
+    outline: none;
+}
+.col-md-8{
+	background-image: url(../pictures/sz_table.jpg);
+	
+	opacity: 0.8;
+	color: #af7737;
+	background-color:white;
+	padding: 10%;
+	border-top-right-radius: 0.7rem;
+	border-bottom-right-radius: 0.7rem;
+	border-top-left-radius: 0.7rem;
+	border-bottom-left-radius: 0.7rem;
+	box-shadow: 5px 10px 5px #c5945b;
+	padding: 0%;	
+	border: 2px solid #af7737;
+
+}
+.contact-form label{
+	font-weight:600;
+}
+.contact-form button{
+	font-weight: 600;
+	width: 25%;
+}
+.contact-form button:focus{
+	box-shadow:none;
+}
+.help-block {
+	color:#f1160a;
+}
+
+

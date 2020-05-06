@@ -32,7 +32,7 @@ input[type="text"][type="email"][type="submit"]
     outline: none;
 }
 .col-md-8{
-	background-image: url(../pictures/sz_table.jpg);
+	background-image: url(../pictures/backgrounds/rsz_table.jpg);
 	
 	opacity: 0.8;
 	color: #af7737;
